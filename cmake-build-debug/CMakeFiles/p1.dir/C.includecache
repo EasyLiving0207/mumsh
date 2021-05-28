@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/easyliving/Desktop/Files/FA2020/VE482/p1/parse.c
+parse.h
+/Users/easyliving/Desktop/Files/FA2020/VE482/p1/parse.h
+
+/Users/easyliving/Desktop/Files/FA2020/VE482/p1/parse.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+

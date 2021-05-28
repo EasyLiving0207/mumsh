@@ -1,0 +1,3 @@
+arg 0: echo
+arg 1: abc
+abc
